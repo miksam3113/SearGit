@@ -143,7 +143,7 @@ p {
 .div_marke {
   display: flex;
   flex-direction: row;
-  margin-left: 15px;
+  margin-left: 0px;
   margin-right: 15px;
 }
 
